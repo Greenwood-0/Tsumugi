@@ -20,6 +20,14 @@
         "Harmless Monsters": "/proxy/api/imgur/chapter/7a4OrvK/"
       },
       "last_updated": "1663693933"
+    },
+    "2": {
+      "title": "Book 2",
+      "volume": "1",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/Ty1MzcX/"
+      },
+      "last_updated": "1673616219"
     }
   }
 }
